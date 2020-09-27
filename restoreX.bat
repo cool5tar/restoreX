@@ -1,4 +1,4 @@
-echo made by sn0wstar
+echo made by sn0wstar(cool5tar)
 
 echo starting...
 
@@ -15,3 +15,5 @@ PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerSh
 echo RESTORE POINT CREATED
 
 echo THANK YOU FOR USING restoreX
+
+echo copyright 2020 sn0wstar(cool5tar)
