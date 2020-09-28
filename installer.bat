@@ -6,4 +6,5 @@ curl https://raw.githubusercontent.com/cool5tar/restoreX/master/restoreX.bat --o
 curl https://raw.githubusercontent.com/cool5tar/restoreX/master/update.bat --ouput update.bat
 curl https://raw.githubusercontent.com/cool5tar/restoreX/master/upd.bat --ouput upd.bat
 curl https://raw.githubusercontent.com/cool5tar/restoreX/master/uninst.bat --output uninst.bat
-restoreX.bat
+
+c:/restoreX/restoreX.bat
