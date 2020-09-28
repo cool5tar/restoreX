@@ -1,0 +1,3 @@
+cd /
+rmdir restoreX
+echo done...
