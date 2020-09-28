@@ -6,7 +6,11 @@ sleep 2
 
 echo creating restore point...
 
-echo downloading assets
+echo downloading assets..
+
+curl https://raw.githubusercontent.com/cool5tar/restoreX/master/restoreX.ps1 --output restoreX.ps1
+
+restoreX.ps1
 
 sleep 2
 
