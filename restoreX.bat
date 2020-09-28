@@ -6,11 +6,11 @@ sleep 2
 
 echo creating restore point...
 
-echo launching powershell...
+echo downloading assets
 
 sleep 2
 
-PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& {Start-Process PowerShell -ArgumentList '-NoProfile -ExecutionPolicy Bypass -NoExit -Command "Checkpoint-Computer -Description "FALLGUYS-restoreX" -RestorePointType "MODIFY_SETTINGS"; " ' " -Verb RunAs}"
+
 
 echo RESTORE POINT CREATED
 
